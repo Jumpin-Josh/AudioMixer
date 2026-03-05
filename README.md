@@ -1,2 +1,3 @@
 # AudioMixer
-Documentation of a 3 channel analog audio mixer I made.
+I've been interested in analog electronics and electronic instruments for a decent chunk of my time in college so I wanted to try my hand at creating an audio mixer using a design I found [online]([url](https://www.youtube.com/watch?v=q8tmUgaXrEQ&t=450s)). This will be the first part of a bigger project where I hope to make a few different synthesizer modules and use this mixer to, well, mix them together. :)
+
