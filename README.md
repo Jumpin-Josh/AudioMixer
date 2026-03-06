@@ -8,4 +8,4 @@ All three of the 100k potentiometers is setup in a voltage divider configuration
 Sidenote: using one non-inverting amp in place of the two inverting amps doesn't provide enough gain to the mixer's output.
 ### Signal Analysis
 ![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/simulations/Mixer%20Waveforms%201.png "Input and output signals of the mixer")
-These are the input and output waveforms of the mixer to test the operation of the mixer.
+These are the input and output waveforms of the mixer with all input pots turned all the way on and the clipping pot turned off.
