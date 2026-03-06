@@ -3,10 +3,10 @@ I've been interested in analog electronics and electronic instruments for a dece
 
 ### Table of Contents
 1. [Initial Simulations](https://github.com/Jumpin-Josh/AudioMixer/blob/main/README.md#initial-simulations)
-2. Breadboard Prototyping
-3. PCB Design and Circuit Assembly
-4. Enclosure Design
-5. Final Product and Closing Thoughts
+2. [Breadboard Prototyping](https://github.com/Jumpin-Josh/AudioMixer/blob/main/README.md#breadboard-prototyping)
+3. [PCB Design and Circuit Assembly](https://github.com/Jumpin-Josh/AudioMixer/blob/main/README.md#pcb-design-and-circuit-assembly)
+4. [Enclosure Design](https://github.com/Jumpin-Josh/AudioMixer/blob/main/README.md#enclosure-design)
+5. [Final Product and Closing Thoughts](https://github.com/Jumpin-Josh/AudioMixer/blob/main/README.md#final-product-and-closing-thoughts)
 
 ## Initial Simulations
 Cause who doesn't enjoy some circuit simulation? It's the LT*Spice* of life!
