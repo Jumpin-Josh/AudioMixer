@@ -1,5 +1,5 @@
 # AudioMixer + Kick Drum Circuits
-I've been interested in analog electronics and electronic instruments for a decent chunk of my time in college so I wanted to try my hand at creating an [audio mixer](https://youtu.be/q8tmUgaXrEQ?si=pKyhKzkajhBQ0o0y&t=1063) and a [kick drum](https://youtu.be/yz37Yz315eU?si=P70lOI3g9exFc0Ud&t=1760) using designs I found online. This will be the first part of a bigger project where I hope to make a few different analog synthesizer modules and use this mixer to, well, mix them together. :)
+I've been interested in analog electronics and electronic instruments for a decent chunk of my time in college so I wanted to try my hand at creating an [audio mixer](https://youtu.be/q8tmUgaXrEQ?si=pKyhKzkajhBQ0o0y&t=1063) and a [kick drum circuit](https://youtu.be/yz37Yz315eU?si=P70lOI3g9exFc0Ud&t=1760) using designs I found online. This will be the first part of a bigger project where I hope to make a few different analog synthesizer modules and use this mixer to, well, mix them together. :)
 
 ### LTSpice Prototype Simulation
 ![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/simulations/Mixer%20Prototype.png "Mixer Simulation")
