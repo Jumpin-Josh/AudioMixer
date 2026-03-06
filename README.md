@@ -20,7 +20,7 @@ All three of the 100k potentiometers are setup like voltage dividers allowing ea
 These are the input and output waveforms of the mixer with all input pots at max value.
 #### Closer look at the output signal
 ![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/simulations/Mixer%20Waveforms%202.png "Output signal")
-Note the output signal has some slight clipping as it reaches to the supply voltages even though this is the raw output.
+Note the signal has some clipping as it reaches the supply voltages even though this is the raw output.
 #### Effect of the clipping diodes
 ![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/simulations/Mixer%20Waveforms%203.png "Sweep of the cliping potentiometers")
 Simulation of the signal with no, half, and full clipping.
