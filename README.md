@@ -14,7 +14,7 @@ Cause who doesn't enjoy some circuit simulation? It's the LT*Spice* of life!
 ![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/simulations/Mixer%20Circuit.png "Initial Mixer Design in LTSpice")
 All three of the 100k potentiometers are setup like voltage dividers allowing each input to be attenuated independently. The inputs are tied together and fed into two inverting buffers<sup>1</sup> to boost the resulting signal since the input pots may reduce the amplitude. The 20k potentiometer is used to tune the clipping on the mixer's output which is then fed into a non-inverting buffer. The .step directive is used to sweep through multiple potentiometer values to see how it will affect the signal.
 
-[1]: The first inverting buffer is used so that the input signals are summed rather than averaged. This is done so that if any of the inputs are at 0V it won't affect the other input signals. The second inverting buffer is used to negate the first inversion in case I want to mix in a control voltage from a low frequency oscillator or envelope generator (which I plan on building in the future).
+[1]: The first inverting buffer is used so that the input signals are summed rather than averaged. This is done so that if any of the inputs are at 0V it won't affect the other input signals. The second inverting buffer is used to negate the first inversion in case I want to mix in a control voltage (CV) from a low frequency oscillator (LFO) or envelope generator (I plan on building both in future).
 ### Signal Analysis
 ![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/simulations/Mixer%20Waveforms%201.png "Input and output signals of the mixer")
 Above are the input and output waveforms of the mixer with all input pots at max "volume".
