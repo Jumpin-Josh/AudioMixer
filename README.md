@@ -1,6 +1,13 @@
 # AudioMixer
 I've been interested in analog electronics and electronic instruments for a decent chunk of my time in college so I wanted to try my hand at creating an [audio mixer](https://youtu.be/q8tmUgaXrEQ?si=oKsCojngbPTezQQb&t=1473) using a design I found online. This will be the first part of a bigger project where I hope to make a few different analog synthesizer modules and use the mixer to, well, mix them together. :)
 
+### Table of Contents
+1. Initial Simulations
+2. Prototyping and Assembly
+3. PCB Design
+4. Enclosure Design
+5. Final Product and Closing Thoughts
+
 ## Initial Simulations
 Cause who doesn't enjoy some circuit simulation?
 ### Audio Mixer Design
@@ -16,3 +23,8 @@ These are the input and output waveforms of the mixer with all input pots at max
 #### Effect of the clippnig diodes
 ![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/simulations/Mixer%20Waveforms%204.png "Sweep of the cliping pot")
 Simulation of the signal with no, half, and full clipping.
+
+## Prototyping and Assembly
+## PCB Design
+## Enclosure Design
+## Final Product and Closing Thoughts
