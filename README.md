@@ -22,7 +22,7 @@ These are the input and output waveforms of the mixer with all input pots at max
 ![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/simulations/Mixer%20Waveforms%202.png "Output signal")
 Note the output signal has some slight clipping as it reaches to the supply voltages even though this is the raw output.
 #### Effect of the clipping diodes
-![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/simulations/Mixer%20Waveforms%204.png "Sweep of the cliping potentiometers")
+![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/simulations/Mixer%20Waveforms%203.png "Sweep of the cliping potentiometers")
 Simulation of the signal with no, half, and full clipping.
 
 ## Breadboard Prototyping
