@@ -9,7 +9,7 @@ I've been interested in analog electronics and electronic instruments for a dece
 5. Final Product and Closing Thoughts
 
 ## Initial Simulations
-Cause who doesn't enjoy some circuit simulation? It's the LT**Spice** of life!
+Cause who doesn't enjoy some circuit simulation? It's the LT*Spice* of life!
 ### Audio Mixer Design
 ![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/simulations/Mixer%20Circuit.png "Initial Mixer Design in LTSpice")
 All three of the 100k potentiometers are setup in a voltage divider configuration allowing each input to be attenuated independently. The inputs are then tied together and fed into two inverting buffers<sup>1</sup> to boost the resulting signal since the input pots may reduce the amplitude. The 20k potentiometer is used to add/adjust clipping on the mixer's output which is then fed into another op-amp since the clipping reduces the signal amplitude yet again. (Each potentiometer can be swept through using a .step directive to see how different values will affect the signal.)
