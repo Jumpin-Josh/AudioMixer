@@ -3,8 +3,8 @@ I've been interested in analog electronics and electronic instruments for a dece
 
 ### Table of Contents
 1. Initial Simulations
-2. Prototyping and Assembly
-3. PCB Design
+2. Breadboard Prototyping
+3. PCB Design and Circuit Assembly
 4. Enclosure Design
 5. Final Product and Closing Thoughts
 
@@ -25,7 +25,7 @@ Note the output signal has some slight clipping as it reaches to the supply volt
 ![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/simulations/Mixer%20Waveforms%204.png "Sweep of the cliping pot")
 Simulation of the signal with no, half, and full clipping.
 
-## Prototyping and Assembly
-## PCB Design
+## Breadboard Prototyping
+## PCB Design and Circuit Assembly
 ## Enclosure Design
 ## Final Product and Closing Thoughts
