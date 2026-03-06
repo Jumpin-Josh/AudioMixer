@@ -17,9 +17,10 @@ All three of the 100k potentiometers are setup in a voltage divider configuratio
 [1]: The first inverting buffer is used so that the input signals are summed rather than averaged. The second inverting buffer is used to negate the first inversion in case I want to mix in a control voltage from a low frequency oscillator or envelope generator.
 ### Signal Analysis
 ![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/simulations/Mixer%20Waveforms%201.png "Input and output signals of the mixer")
-These are the input and output waveforms of the mixer with all input pots at max value. Note that the output signal has some slight clipping even though the clipping stage was not used.
+These are the input and output waveforms of the mixer with all input pots at max value.
 #### Closer look at the output signal
 ![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/simulations/Mixer%20Waveforms%202.png "Output signal")
+Note the output signal has some slight clipping as it reaches to the supply voltages even though this is the raw output.
 #### Effect of the clippnig diodes
 ![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/simulations/Mixer%20Waveforms%204.png "Sweep of the cliping pot")
 Simulation of the signal with no, half, and full clipping.
