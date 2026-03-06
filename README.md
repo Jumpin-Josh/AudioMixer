@@ -6,3 +6,6 @@ I've been interested in analog electronics and electronic instruments for a dece
 All three of the 100k potentiometers is setup in a voltage divider configuration allowing each input to be attenuated independently. The inputs are then tied together and fed into two inverting amplifiers to boost the resulting signal since the input pots may reduce the amplitude. The 20k potentiometer is used to add/adjust clipping on the mixer's output which is then fed into another op-amp since the clipping reduces the signal amplitude yet again. (Each potentiometer can be swept through using a .step directive to see how different values will affect the waveform.)
 
 Sidenote: using one non-inverting amp in place of the two inverting amps doesn't provide enough gain to the mixer's output.
+### Signal Analysis
+![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/simulations/Mixer%20Waveforms%201.png "Input and output signals of the mixer")
+These are the input and output waveforms of the mixer to test the operation of the mixer.
