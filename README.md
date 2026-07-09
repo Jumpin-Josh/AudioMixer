@@ -26,6 +26,10 @@ Note the signal has some clipping as it reaches the supply voltages even though 
 Simulation of the output signal with no, half, and max clipping.
 
 ## Breadboard Prototyping
+
+### Breadboard Design
+![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/pictures/1_MixerPic.jpg "Inital Breadboard Layout")
+
 ## PCB Design and Circuit Assembly
 ## Enclosure Design
 ## Final Product and Closing Thoughts
