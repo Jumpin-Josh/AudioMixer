@@ -29,7 +29,9 @@ Simulation of the output signal with no, half, and max clipping.
 
 ### Breadboard Design
 ![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/pictures/1_MixerPic.jpg "Inital Breadboard Layout")
-The [workstation](https://www.ericasynths.lv/edu-diy-labor/) i'm using lets me set up jack sockets, potentiometers, switches and buttons off the breadboard so I have more space.
+The [workstation](https://www.ericasynths.lv/edu-diy-labor/) i'm using lets me set up jack sockets, potentiometers, switches and buttons off the breadboard so I have more space. It also has a module that can act as an osiloscope, lissajous curve plotter, spectrum analyzer, voltmeter and even tuner.
+
+I cut out the three seperate outputs for now to simplify the wiring. I swapped out the feedback resistor in the second amplifier for 1M resistor so it has a gain of 10. Paired with the 250k potentiometer I put in place of the 20k, the mixer is much louder now so the distortion added by the diodes can be even stronger. 
 
 ## PCB Design and Circuit Assembly
 ## Enclosure Design
