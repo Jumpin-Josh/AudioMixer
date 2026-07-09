@@ -36,11 +36,12 @@ I cut out the three seperate outputs for now to simplify the wiring. I also swap
 ### Wave Analysis
 Here are some highlights from my wave anylsis.
 
-![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/pictures/2_Sawtooth1.jpg "Sawtooth output")
 My synth has 3 oscilators that ouput either sawtooth or square waves. I had it output a single sawtooth for easier viewing.
+![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/pictures/2_Sawtooth1.jpg "Sawtooth output")
 
+Clipped
 ![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/pictures/3_Sawtooth2.jpg "Sawtooth closeup")
-
+Unclipped
 ![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/pictures/4_ClippedSaw.jpg "Clipped sawtooth")
 
 ![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/pictures/5_Sine.jpg "Sine wave")
