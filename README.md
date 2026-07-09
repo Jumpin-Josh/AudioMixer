@@ -47,7 +47,7 @@ Clipped
 By lowering the cutoff frequency of the low-pass filter I can shape the sawtooth into a sine wave
 ![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/pictures/5_Sine.jpg "Sine wave")
 
-And when clipped it turns into a square wave.
+And when clipped it resembles a square wave.
 ![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/pictures/6_ClippedSine.jpg "Clipped sine")
 
 ## PCB Design and Circuit Assembly
