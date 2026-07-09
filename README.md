@@ -31,7 +31,22 @@ Simulation of the output signal with no, half, and max clipping.
 ![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/pictures/1_MixerPic.jpg "Inital Breadboard Layout")
 The [workstation](https://www.ericasynths.lv/edu-diy-labor/) i'm using lets me set up jack sockets, potentiometers, switches and buttons off the breadboard so I have more space. It also has a module that can act as an osiloscope, lissajous curve plotter, spectrum analyzer, voltmeter and even tuner.
 
-I cut out the three seperate outputs for now to simplify the wiring. I swapped out the feedback resistor in the second amplifier for 1M resistor so it has a gain of 10. Paired with the 250k potentiometer I put in place of the 20k, the mixer is much louder now so the distortion added by the diodes can be even stronger. 
+I cut out the three seperate outputs for now to simplify the wiring. I also swapped out the feedback resistor in the second amplifier for a 1M resistor so it has a gain of 10. Paired with the 250k potentiometer I put in place of the 20k, the mixer will always output a signal that can be distorted now.
+
+### Wave Analysis
+Here are some highlights from my wave anylsis.
+
+![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/pictures/2_Sawtooth1.jpg "Sawtooth output")
+My synth has 3 oscilators that ouput either sawtooth or square waves. I had it output a single sawtooth for easier viewing.
+
+![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/pictures/3_Sawtooth2.jpg "Sawtooth closeup")
+
+![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/pictures/4_ClippedSaw.jpg "Clipped sawtooth")
+
+![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/pictures/5_Sine.jpg "Sine wave")
+
+
+![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/pictures/6_ClippedSine.jpg "Clipped sine")
 
 ## PCB Design and Circuit Assembly
 ## Enclosure Design
