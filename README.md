@@ -50,7 +50,9 @@ By lowering the cutoff frequency of the low-pass filter I can shape the sawtooth
 And when clipped it resembles a square wave.
 ![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/pictures/6_ClippedSine.jpg "Clipped sine")
 
-The workstation has an in built oscilator that can be adjusted from just before the upper limit of human hearing to well below it. I did some additional testing and mixed freqeuncies out of the range of human hearing to see how it would modulate the synthesizer's output.
+The workstation has an in built oscilator that can be adjusted from just before the upper limit of human hearing to well below it. I did some additional testing using the oscilator as an LFO and mixing it with the output of the synthesizer and found that it caused the synth's signal to sit on top of the lower freqeuncy the same way a boat would sit on top of a wave.
+
+As I finished building this mixer I found myself wanting to fit as many more modules as possible on the workstation so it could act as an analog synth module instead of just a mixer. 
 
 ## PCB Design and Circuit Assembly
 ## Enclosure Design
