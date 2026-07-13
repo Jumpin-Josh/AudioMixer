@@ -3,10 +3,14 @@ I've been interested in analog electronics and electronic instruments for a dece
 
 ### Table of Contents
 1. [Initial Simulations](https://github.com/Jumpin-Josh/AudioMixer/blob/main/README.md#initial-simulations)
-2. [Breadboard Prototyping](https://github.com/Jumpin-Josh/AudioMixer/blob/main/README.md#breadboard-prototyping)
-3. [PCB Design and Circuit Assembly](https://github.com/Jumpin-Josh/AudioMixer/blob/main/README.md#pcb-design-and-circuit-assembly)
-4. [Enclosure Design](https://github.com/Jumpin-Josh/AudioMixer/blob/main/README.md#enclosure-design)
-5. [Final Product and Closing Thoughts](https://github.com/Jumpin-Josh/AudioMixer/blob/main/README.md#final-product-and-closing-thoughts)
+       a. Mixer
+       b. Module 1: Double Wave Folder
+       c. Module 2: ???
+       d. Module 3: ???
+3. [Breadboard Prototyping](https://github.com/Jumpin-Josh/AudioMixer/blob/main/README.md#breadboard-prototyping)
+4. [PCB Design and Circuit Assembly](https://github.com/Jumpin-Josh/AudioMixer/blob/main/README.md#pcb-design-and-circuit-assembly)
+5. [Enclosure Design](https://github.com/Jumpin-Josh/AudioMixer/blob/main/README.md#enclosure-design)
+6. [Final Product and Closing Thoughts](https://github.com/Jumpin-Josh/AudioMixer/blob/main/README.md#final-product-and-closing-thoughts)
 
 ## Initial Simulations
 Cause who doesn't enjoy some circuit simulation? It's the LT*Spice* of life!
@@ -25,8 +29,9 @@ Note the signal has some clipping as it reaches the supply voltages even though 
 ![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/simulations/Mixer%20Waveforms%203.png "Sweep of the cliping potentiometers")
 Simulation of the output signal with no, half, and max clipping.
 
+### Module 1: Double Wave Folder
+---------------------------------------------------------------------------------------------------------------------------------------------------
 ## Breadboard Prototyping
-
 ### Breadboard Design
 ![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/pictures/1_MixerPic.jpg "Inital Breadboard Layout")
 The [workstation](https://www.ericasynths.lv/edu-diy-labor/) i'm using lets me set up jack sockets, potentiometers, switches and buttons off the breadboard so I have more space. It also has a module that can act as an osiloscope, lissajous curve plotter, spectrum analyzer, voltmeter and even tuner.
@@ -50,7 +55,7 @@ By lowering the cutoff frequency of the low-pass filter I can shape the sawtooth
 And when clipped it resembles a square wave.
 ![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/pictures/6_ClippedSine.jpg "Clipped sine")
 
-The workstation has an in built oscilator that can be adjusted from just before the upper limit of human hearing to well below it. I did some additional testing using the oscilator as an LFO and mixing it with the output of the synthesizer and found that it caused the synth's signal to sit on top of the lower freqeuncy the same way a boat would sit on top of a wave.
+The workstation has an in built oscilator that can be adjusted from just before the upper limit of human hearing to well below it. I did some additional testing using the oscilator as an LFO and mixing it with the output of the synthesizer and found that it caused the synth's signal to sit on top of the lower freqeuncy the same way a boat would sit atop a wave.
 
 As I finished building this mixer I found myself wanting to fit as many more modules as possible on the workstation so it could act as an analog synth module instead of just a mixer. 
 
