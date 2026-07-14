@@ -4,9 +4,9 @@ I've been interested in analog electronics and electronic instruments for a dece
 ### Table of Contents
 1. [Initial Simulations](https://github.com/Jumpin-Josh/AudioMixer/blob/main/README.md#initial-simulations)
    - Mixer
-   - Module 1: [Double Wave Folder](https://github.com/Jumpin-Josh/AudioMixer/blob/main/README.md#module-1-double-wave-folder)
-   - Module 2: Distortion
-   - Module 3: Voltage Controlled High Pass Filter
+   - Module 1: [Wave Folder](https://github.com/Jumpin-Josh/AudioMixer/blob/main/README.md#module-1-double-wave-folder)
+   - Module 2: [Distortion](https://github.com/Jumpin-Josh/AudioMixer/blob/main/README.md#module-2-distortion)
+   - Module 3: [Voltage Controlled Filter(VCF)](https://github.com/Jumpin-Josh/AudioMixer/blob/main/README.md#module-3-voltage-controlled-high-pass-filter)
 3. [Breadboard Prototyping](https://github.com/Jumpin-Josh/AudioMixer/blob/main/README.md#breadboard-prototyping)
 4. [PCB Design and Circuit Assembly](https://github.com/Jumpin-Josh/AudioMixer/blob/main/README.md#pcb-design-and-circuit-assembly)
 5. [Enclosure Design](https://github.com/Jumpin-Josh/AudioMixer/blob/main/README.md#enclosure-design)
@@ -29,9 +29,9 @@ Note the signal has some clipping as it reaches the supply voltages even though 
 ![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/simulations/Mixer%20Waveforms%203.png "Sweep of the cliping potentiometers")
 Simulation of the output signal with no, half, and max clipping.
 
-### Module 1: Double Wave Folder
+### Module 1: Wave Folder
 ### Module 2: Distortion
-### Module 3: Voltage Controlled High Pass Filter
+### Module 3: Voltage Controlled Filter(VCF)
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ## Breadboard Prototyping
 Not as edible as they sound.
