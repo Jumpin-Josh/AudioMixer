@@ -5,8 +5,8 @@ I've been interested in analog electronics and electronic instruments for a dece
 1. [Initial Simulations](https://github.com/Jumpin-Josh/AudioMixer/blob/main/README.md#initial-simulations)
    - Mixer
    - Module 1: Double Wave Folder
-   - Module 2: ???
-   - Module 3: ???
+   - Module 2: Distortion
+   - Module 3: High-Pass Diode Ladder Filter
 3. [Breadboard Prototyping](https://github.com/Jumpin-Josh/AudioMixer/blob/main/README.md#breadboard-prototyping)
 4. [PCB Design and Circuit Assembly](https://github.com/Jumpin-Josh/AudioMixer/blob/main/README.md#pcb-design-and-circuit-assembly)
 5. [Enclosure Design](https://github.com/Jumpin-Josh/AudioMixer/blob/main/README.md#enclosure-design)
