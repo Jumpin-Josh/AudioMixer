@@ -13,7 +13,7 @@ I've been interested in analog electronics and electronic instruments for a dece
 6. [Final Product and Closing Thoughts](https://github.com/Jumpin-Josh/AudioMixer/blob/main/README.md#final-product-and-closing-thoughts)
 
 ## Initial Simulations
-Cause who doesn't enjoy some circuit simulation? It's the LT*Spice* of life!
+Cause who doesn't enjoy a little circuit simulation? It's the LT*Spice* of life!
 ### Audio Mixer Design
 ![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/simulations/Mixer%20Circuit.png "Initial Mixer Design in LTSpice")
 All three of the 100k potentiometers are setup like voltage dividers allowing each input to be attenuated independently. The inputs are tied together and fed into two inverting buffers<sup>1</sup> to boost the resulting signal since the input pots may reduce the amplitude. The 20k potentiometer is used to tune the clipping on the mixer's output which is then fed into a non-inverting buffer. The .step directive is used to sweep through multiple potentiometer values to see how it will affect the signal.
