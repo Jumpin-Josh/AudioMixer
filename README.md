@@ -3,7 +3,7 @@ I've been interested in analog electronics and electronic instruments for a dece
 
 ### Table of Contents
 1. [Initial Simulations](https://github.com/Jumpin-Josh/AudioMixer/blob/main/README.md#initial-simulations)
-       a. Mixer
+1a. Mixer
        b. Module 1: Double Wave Folder
        c. Module 2: ???
        d. Module 3: ???
