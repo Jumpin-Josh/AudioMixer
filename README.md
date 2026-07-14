@@ -6,7 +6,7 @@ I've been interested in analog electronics and electronic instruments for a dece
    - Mixer
    - Module 1: [Double Wave Folder](https://github.com/Jumpin-Josh/AudioMixer/blob/main/README.md#module-1-double-wave-folder)
    - Module 2: Distortion
-   - Module 3: High-Pass Diode Ladder Filter
+   - Module 3: Voltage Controlled High Pass Filter
 3. [Breadboard Prototyping](https://github.com/Jumpin-Josh/AudioMixer/blob/main/README.md#breadboard-prototyping)
 4. [PCB Design and Circuit Assembly](https://github.com/Jumpin-Josh/AudioMixer/blob/main/README.md#pcb-design-and-circuit-assembly)
 5. [Enclosure Design](https://github.com/Jumpin-Josh/AudioMixer/blob/main/README.md#enclosure-design)
@@ -30,6 +30,8 @@ Note the signal has some clipping as it reaches the supply voltages even though 
 Simulation of the output signal with no, half, and max clipping.
 
 ### Module 1: Double Wave Folder
+### Module 2: Distortion
+### Module 3: Voltage Controlled High Pass Filter
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ## Breadboard Prototyping
 Not as edible as they sound.
