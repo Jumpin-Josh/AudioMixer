@@ -49,6 +49,7 @@ My synth has 3 oscilators that ouput either sawtooth or square waves. I had it o
 
 Unclipped
 ![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/pictures/3_Sawtooth2.jpg "Sawtooth closeup")
+
 Clipped
 ![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/pictures/4_ClippedSaw.jpg "Clipped sawtooth")
 
