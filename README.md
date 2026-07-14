@@ -32,6 +32,7 @@ Simulation of the output signal with no, half, and max clipping.
 ### Module 1: Double Wave Folder
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ## Breadboard Prototyping
+Not as edible as they sound.
 ### Breadboard Design
 ![alt text](https://github.com/Jumpin-Josh/AudioMixer/blob/main/pictures/1_MixerPic.jpg "Inital Breadboard Layout")
 The [workstation](https://www.ericasynths.lv/edu-diy-labor/) i'm using lets me set up jack sockets, potentiometers, switches and buttons off the breadboard so I have more space. It also has a module that can act as an osiloscope, lissajous curve plotter, spectrum analyzer, voltmeter and even tuner.
